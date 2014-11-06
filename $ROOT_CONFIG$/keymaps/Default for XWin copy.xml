@@ -1,0 +1,8 @@
+<keymap version="1" name="Default for XWin copy" parent="Default for XWin">
+  <action id="EditorCloneCaretAbove">
+    <keyboard-shortcut first-keystroke="shift alt OPEN_BRACKET" />
+  </action>
+  <action id="EditorCloneCaretBelow">
+    <keyboard-shortcut first-keystroke="shift alt CLOSE_BRACKET" />
+  </action>
+</keymap>
