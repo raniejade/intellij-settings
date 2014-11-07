@@ -23,9 +23,4 @@
   <XML>
     <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
   </XML>
-  <codeStyleSettings language="JAVA">
-    <indentOptions>
-      <option name="USE_RELATIVE_INDENTS" value="true" />
-    </indentOptions>
-  </codeStyleSettings>
 </code_scheme>
