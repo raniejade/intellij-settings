@@ -2,6 +2,11 @@
   <component name="Play2ExcludedModulesSettings">
     <option name="INFO">
       <map>
+        <entry key="ci-dsl">
+          <value>
+            <ProjectSettingsEntry />
+          </value>
+        </entry>
         <entry key="freelancer-desktop-app">
           <value>
             <ProjectSettingsEntry />

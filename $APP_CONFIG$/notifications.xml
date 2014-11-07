@@ -8,5 +8,6 @@
     <toolWindow group="Debugger messages" />
     <toolWindow group="LiveEdit" />
     <toolWindow group="notification.group.id.gradle" />
+    <toolWindow group="notification.group.id.sbt" />
   </component>
 </application>
