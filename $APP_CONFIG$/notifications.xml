@@ -5,5 +5,8 @@
     <toolWindow group="Grunt Console" />
     <toolWindow group="Vcs Messages" />
     <toolWindow group="notification.group.id.gradle" />
+    <toolWindow group="Flash app not compiled before launch" />
+    <toolWindow group="Inspection Results" />
+    <toolWindow group="Debugger messages" />
   </component>
 </application>
