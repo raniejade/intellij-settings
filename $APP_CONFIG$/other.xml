@@ -1,10 +1,4 @@
 <application>
-  <component name="BaseRefactoringSettings">
-    <option name="RENAME_SEARCH_IN_COMMENTS_FOR_FILE" value="false" />
-    <option name="RENAME_SEARCH_FOR_REFERENCES_FOR_FILE" value="false" />
-    <option name="RENAME_SEARCH_FOR_REFERENCES_FOR_DIRECTORY" value="false" />
-    <option name="MOVE_SEARCH_FOR_REFERENCES_FOR_FILE" value="false" />
-  </component>
   <component name="CodeStyleSchemes">
     <option name="CURRENT_SCHEME_NAME" value="Default" />
   </component>
@@ -64,16 +58,14 @@
     <ignored-resource url="http://exslt.org/dynamic" />
     <ignored-resource url="http://exslt.org/sets" />
     <ignored-resource url="http://www.w3.org/1998/Math/MathML" />
+    <ignored-resource url="tapestry:parameter" />
     <ignored-resource url="urn:idea:xslt-plugin#extensions" />
     <ignored-resource url="http://exslt.org/common" />
     <ignored-resource url="http://www.w3.org/2000/svg" />
   </component>
-  <component name="JavaFxSettings">
-    <option name="pathToSceneBuilder" value="/Applications/JavaFX Scene Builder 2.0.app" />
-    <option name="myPathToSceneBuilder" value="/Applications/JavaFX Scene Builder 2.0.app" />
-  </component>
   <component name="RefactoringSettings">
-    <option name="MOVE_PREVIEW_USAGES" value="false" />
+    <option name="RENAME_SEARCH_IN_COMMENTS_FOR_CLASS" value="false" />
+    <option name="RENAME_SEARCH_FOR_TEXT_FOR_CLASS" value="false" />
     <option name="INTRODUCE_CONSTANT_VISIBILITY" value="public" />
   </component>
   <component name="Registry">
@@ -100,17 +92,12 @@
     <data-views />
     <general />
     <debuggers>
-      <debugger id="javascript">
-        <configuration>
-          <custom-object-presentation />
-        </configuration>
-      </debugger>
       <debugger id="groovy_debugger">
         <configuration />
       </debugger>
-      <debugger id="scala_debugger">
+      <debugger id="javascript">
         <configuration>
-          <option name="DO_NOT_DISPLAY_STREAMS" value="false" />
+          <custom-object-presentation />
         </configuration>
       </debugger>
     </debuggers>

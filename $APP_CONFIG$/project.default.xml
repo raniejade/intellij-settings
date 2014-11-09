@@ -28,14 +28,6 @@
         <option name="SKIP_IMPORT_STATEMENTS" value="false" />
       </component>
       <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false" />
-      <component name="GradleLocalSettings">
-        <option name="modificationStamps">
-          <map>
-            <entry key="$USER_HOME$/Workspace/ci-dsl" value="2824243954000" />
-            <entry key="$USER_HOME$/Workspace/freelancer-desktop-app" value="69271751050000" />
-          </map>
-        </option>
-      </component>
       <component name="ProjectInspectionProfilesVisibleTreeState">
         <entry key="Project Default">
           <profile-state>
