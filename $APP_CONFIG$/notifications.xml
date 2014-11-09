@@ -7,6 +7,7 @@
     <toolWindow group="notification.group.id.gradle" />
     <toolWindow group="Flash app not compiled before launch" />
     <toolWindow group="Inspection Results" />
+    <toolWindow group="HotSwap" />
     <toolWindow group="Debugger messages" />
   </component>
 </application>

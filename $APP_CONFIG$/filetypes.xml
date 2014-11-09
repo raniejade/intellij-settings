@@ -4,6 +4,6 @@
     <extensionMap>
       <mapping ext="pfx" type="XML" />
     </extensionMap>
-    <setting name="fileTypeChangedCounter" value="2" />
+    <setting name="fileTypeChangedCounter" value="3" />
   </component>
 </application>
