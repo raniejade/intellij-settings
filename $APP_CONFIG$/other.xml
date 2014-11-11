@@ -70,6 +70,7 @@
   <component name="RefactoringSettings">
     <option name="RENAME_SEARCH_IN_COMMENTS_FOR_CLASS" value="false" />
     <option name="RENAME_SEARCH_FOR_TEXT_FOR_CLASS" value="false" />
+    <option name="MOVE_PREVIEW_USAGES" value="false" />
     <option name="INTRODUCE_CONSTANT_VISIBILITY" value="public" />
   </component>
   <component name="Registry">
@@ -96,13 +97,16 @@
     <data-views />
     <general />
     <debuggers>
-      <debugger id="groovy_debugger">
-        <configuration />
-      </debugger>
       <debugger id="javascript">
         <configuration>
           <custom-object-presentation />
         </configuration>
+      </debugger>
+      <debugger id="groovy_debugger">
+        <configuration />
+      </debugger>
+      <debugger id="scala_debugger">
+        <configuration />
       </debugger>
     </debuggers>
   </component>
