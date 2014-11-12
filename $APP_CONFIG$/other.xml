@@ -63,14 +63,9 @@
     <ignored-resource url="http://exslt.org/common" />
     <ignored-resource url="http://www.w3.org/2000/svg" />
   </component>
-  <component name="JavaFxSettings">
-    <option name="pathToSceneBuilder" value="/Applications/JavaFX Scene Builder 2.0.app" />
-    <option name="myPathToSceneBuilder" value="/Applications/JavaFX Scene Builder 2.0.app" />
-  </component>
   <component name="RefactoringSettings">
     <option name="RENAME_SEARCH_IN_COMMENTS_FOR_CLASS" value="false" />
     <option name="RENAME_SEARCH_FOR_TEXT_FOR_CLASS" value="false" />
-    <option name="MOVE_PREVIEW_USAGES" value="false" />
     <option name="INTRODUCE_CONSTANT_VISIBILITY" value="public" />
     <option name="INTRODUCE_LOCAL_CREATE_FINALS" value="true" />
   </component>
@@ -98,16 +93,13 @@
     <data-views />
     <general />
     <debuggers>
+      <debugger id="groovy_debugger">
+        <configuration />
+      </debugger>
       <debugger id="javascript">
         <configuration>
           <custom-object-presentation />
         </configuration>
-      </debugger>
-      <debugger id="groovy_debugger">
-        <configuration />
-      </debugger>
-      <debugger id="scala_debugger">
-        <configuration />
       </debugger>
     </debuggers>
   </component>
