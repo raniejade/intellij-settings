@@ -1,5 +1,4 @@
 <code_scheme name="Mine">
-  <option name="AUTODETECT_INDENTS" value="false" />
   <option name="GENERATE_FINAL_LOCALS" value="true" />
   <option name="VISIBILITY" value="private" />
   <option name="USE_EXTERNAL_ANNOTATIONS" value="true" />
