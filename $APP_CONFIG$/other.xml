@@ -1,6 +1,22 @@
 <application>
+  <component name="BaseRefactoringSettings">
+    <option name="SAFE_DELETE_SEARCH_IN_COMMENTS" value="false" />
+    <option name="RENAME_SEARCH_IN_COMMENTS_FOR_FILE" value="false" />
+    <option name="RENAME_SEARCH_FOR_REFERENCES_FOR_FILE" value="false" />
+    <option name="MOVE_SEARCH_FOR_REFERENCES_FOR_FILE" value="false" />
+  </component>
   <component name="CodeStyleSchemes">
     <option name="CURRENT_SCHEME_NAME" value="Default" />
+  </component>
+  <component name="CodeStyleSettingsManager">
+    <option name="PER_PROJECT_SETTINGS">
+      <value>
+        <XML>
+          <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
+        </XML>
+      </value>
+    </option>
+    <option name="PREFERRED_PROJECT_CODE_STYLE" value="Mine" />
   </component>
   <component name="DebuggerSettings">
     <option name="TRACING_FILTERS_ENABLED" value="true" />
@@ -63,9 +79,15 @@
     <ignored-resource url="http://exslt.org/common" />
     <ignored-resource url="http://www.w3.org/2000/svg" />
   </component>
+  <component name="JavaFxSettings">
+    <option name="pathToSceneBuilder" value="/Applications/JavaFX Scene Builder 2.0.app" />
+    <option name="myPathToSceneBuilder" value="/Applications/JavaFX Scene Builder 2.0.app" />
+  </component>
   <component name="RefactoringSettings">
     <option name="RENAME_SEARCH_IN_COMMENTS_FOR_CLASS" value="false" />
     <option name="RENAME_SEARCH_FOR_TEXT_FOR_CLASS" value="false" />
+    <option name="MOVE_PREVIEW_USAGES" value="false" />
+    <option name="MOVE_INNER_PREVIEW_USAGES" value="false" />
     <option name="INTRODUCE_CONSTANT_VISIBILITY" value="public" />
     <option name="INTRODUCE_LOCAL_CREATE_FINALS" value="true" />
   </component>
@@ -93,13 +115,16 @@
     <data-views />
     <general />
     <debuggers>
-      <debugger id="groovy_debugger">
-        <configuration />
-      </debugger>
       <debugger id="javascript">
         <configuration>
           <custom-object-presentation />
         </configuration>
+      </debugger>
+      <debugger id="groovy_debugger">
+        <configuration />
+      </debugger>
+      <debugger id="scala_debugger">
+        <configuration />
       </debugger>
     </debuggers>
   </component>

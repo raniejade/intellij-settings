@@ -1,5 +1,22 @@
 <application>
+  <component name="Play2ExcludedModulesSettings">
+    <option name="INFO">
+      <map>
+        <entry key="autoconfig">
+          <value>
+            <ProjectSettingsEntry />
+          </value>
+        </entry>
+        <entry key="freelancer-desktop-app">
+          <value>
+            <ProjectSettingsEntry />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="ScalaSettings">
     <option name="COMPILE_SERVER_ID" value="f518d160-6717-4199-82cf-a3471fdf20d8" />
+    <option name="COMPILE_SERVER_SDK" value="1.8u25" />
   </component>
 </application>
