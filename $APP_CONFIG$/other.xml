@@ -64,8 +64,8 @@
     <ignored-resource url="tapestry:parameter" />
   </component>
   <component name="JavaFxSettings">
-    <option name="pathToSceneBuilder" value="/Applications/JavaFX Scene Builder 2.0.app" />
-    <option name="myPathToSceneBuilder" value="/Applications/JavaFX Scene Builder 2.0.app" />
+    <option name="pathToSceneBuilder" value="/opt/SceneBuilder/SceneBuilder" />
+    <option name="myPathToSceneBuilder" value="/opt/SceneBuilder/SceneBuilder" />
   </component>
   <component name="RefactoringSettings">
     <option name="RENAME_SEARCH_IN_COMMENTS_FOR_CLASS" value="false" />
