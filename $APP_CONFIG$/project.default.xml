@@ -23,7 +23,7 @@
       <component name="GradleLocalSettings">
         <option name="modificationStamps">
           <map>
-            <entry key="$USER_HOME$/Freelance/Workspace/kohler-showroom" value="4315800911868" />
+            <entry key="$USER_HOME$/Freelance/Workspace/kohler-showroom" value="5754705623033" />
             <entry key="$USER_HOME$/Workspace/freelancer-desktop-app" value="77069384588000" />
           </map>
         </option>
@@ -61,10 +61,10 @@
       </component>
       <component name="RunManager">
         <configuration default="true" type="Applet" factoryName="Applet">
-          <module />
           <option name="WIDTH" value="400" />
           <option name="HEIGHT" value="300" />
           <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+          <module />
           <method />
         </configuration>
         <configuration default="true" type="Application" factoryName="Application">
