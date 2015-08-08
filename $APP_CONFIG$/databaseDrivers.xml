@@ -33,9 +33,21 @@
       <property name="characterSetResults" value="utf8" />
       <property name="yearIsDateType" value="false" />
     </driver>
-    <driver id="oracle" name="Oracle" dialect="Oracle">
+    <driver id="oracle" name="Oracle" dialect="OracleSqlPlus">
       <option name="auto-sync" value="false" />
       <option name="auto-commit" value="false" />
+      <library>
+        <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/oracle-driver-license.txt</url>
+      </library>
+      <library>
+        <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/xdb6-11.2.0.4.jar</url>
+      </library>
+      <library>
+        <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/xmlparserv2.jar</url>
+      </library>
+      <library>
+        <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/ojdbc6-11.2.0.4.jar</url>
+      </library>
     </driver>
     <driver id="postgresql" name="PostgreSQL" dialect="PostgreSQL">
       <option name="auto-sync" value="true" />
