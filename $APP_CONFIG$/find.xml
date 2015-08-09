@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project and Libraries" />
-    <option name="defaultScopeName" value="Project and Libraries" />
-    <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="customScope" value="File '/home/raniejade/Freelance/Workspace/kohler-showroom/modules/data-import/src/main/java/com/kohler/data/raw/RawProduct.java'" />
+    <option name="defaultScopeName" value="File '/home/raniejade/Freelance/Workspace/kohler-showroom/modules/data-import/src/main/java/com/kohler/data/raw/RawProduct.java'" />
+    <option name="SEARCH_SCOPE" value="File '/home/raniejade/Freelance/Workspace/kohler-showroom/modules/data-import/src/main/java/com/kohler/data/raw/RawProduct.java'" />
   </component>
 </application>
