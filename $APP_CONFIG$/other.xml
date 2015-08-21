@@ -61,6 +61,7 @@
     </filter>
   </component>
   <component name="ExternalResourceManagerImpl">
+    <resource url="http://www.eclipse.org/jetty/configure.dtd" location="$USER_HOME$/.IntelliJIdea14/system/extResources/e9fa6b60_configure.dtd" />
     <ignored-resource url="tapestry:parameter" />
   </component>
   <component name="JavaFxSettings">
